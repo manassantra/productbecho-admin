@@ -1,0 +1,7 @@
+.nav-link {
+  color: white !important;
+}
+
+.nav-link:active {
+  color: rgb(220, 172, 13);
+}
